@@ -1,12 +1,12 @@
-*.iml//intelli j pro 속성
-.idea// java
-.metadata// eclipse
+*.iml
+.idea
+.metadata
 .classpath
 .project
 .settings
-target//maven
+target
 build
-.svn//sev
+.svn
 bin
 **/*.sw[op] 
 **/.DS_Store
