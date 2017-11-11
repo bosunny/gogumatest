@@ -1,0 +1,13 @@
+*.iml//intelli j pro 속성
+.idea// java
+.metadata// eclipse
+.classpath
+.project
+.settings
+target//maven
+build
+.svn//sev
+bin
+**/*.sw[op] 
+**/.DS_Store
+*.log
